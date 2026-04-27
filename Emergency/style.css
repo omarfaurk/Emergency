@@ -1,0 +1,13 @@
+#main-section{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 50px;
+    padding: 40px;
+   
+}
+#card-section10{
+    grid-column-start:4 ;
+    grid-column-end:5 ;
+    grid-row-start:1 ;
+    grid-row-end:4 ;
+}
